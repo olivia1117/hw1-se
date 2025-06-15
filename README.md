@@ -1,4 +1,4 @@
-# hw1-se
+# Fermat's Near Miss Calculator Program
 
 ### Description of Fermat's Near Miss Calculator Program: 
 This program helps users calculate near misses for 
